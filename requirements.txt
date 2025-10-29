@@ -5,6 +5,9 @@ Django==5.0.14
 mypy_extensions==1.1.0
 packaging==25.0
 pathspec==0.12.1
+pillow==11.3.0
 platformdirs==4.5.0
 pytokens==0.2.0
+setuptools==80.9.0
 sqlparse==0.5.3
+wheel==0.45.1

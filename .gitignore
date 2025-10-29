@@ -1,0 +1,5 @@
+/media
+db.sqlite3
+__pycache__
+/shop/static/img/
+
