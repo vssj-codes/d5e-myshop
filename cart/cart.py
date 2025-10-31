@@ -13,7 +13,7 @@ class Cart:
         if not cart:
             # save an empty cart in the session
             cart = self.session[settings.CART_SESSION_ID] = {}
-        print("====", cart)
+        # print("====", cart)
         self.cart = cart
 
     def __iter__(self):
